@@ -1,6 +1,6 @@
 # npmtest-peerflix-server
 
-#### test coverage for  [peerflix-server (v0.1.3)](https://github.com/asapach/peerflix-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-peerflix-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-peerflix-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-peerflix-server.svg)](https://travis-ci.org/npmtest/node-npmtest-peerflix-server)
+#### basic test coverage for  [peerflix-server (v0.1.3)](https://github.com/asapach/peerflix-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-peerflix-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-peerflix-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-peerflix-server.svg)](https://travis-ci.org/npmtest/node-npmtest-peerflix-server)
 
 #### Streaming torrent client for node.js with web ui.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-peerflix-server/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-peerflix-server/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-peerflix-server/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-peerflix-server/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-peerflix-server/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-peerflix-server/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-peerflix-server/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-peerflix-server/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-peerflix-server/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-peerflix-server/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-peerflix-server/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-peerflix-server/build/coverage.html/index.html)
 
